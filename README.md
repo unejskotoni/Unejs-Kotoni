@@ -12,14 +12,14 @@ I am an IT Computer Networking student with a focus on **Cybersecurity** and **N
 📦 AIRAH ORGANICS PLATFORM
 Overview: A modern e-commerce web platform built for an organic brand offering clean, natural products for skin, hair, and body. It utilizes a secure, serverless edge architecture to deliver a fast, reliable, and highly protected shopping experience.
 
-# 🚀 FEATURES
+### 🚀 FEATURES
 🛒 E-Commerce Store: Includes a catalog browse, individual product views, and a shopping cart system.
 📝 Content Blog: A dedicated blogging section to share skincare secrets, ingredient breakdowns, and usage guides.
 📩 Newsletter Network: Automated sign-up forms embedded across pages with background location tracking for internal statistics.
 📊 Management Suite: A secure admin dashboard to track analytics, overview user growth, and manage subscriber data.
 🛡️ Cyber Defense: Hardened perimeter security using edge firewalls and parameterized query architecture to prevent data leaks and injections.
 
-# 🛠️ TECH STACK
+### 🛠️ TECH STACK
 🎨 Frontend: HTML5, CSS3, JavaScript (ES6+)
 ⚡ Infrastructure & DB: Cloudflare Pages, Workers, & D1 (SQL Database)
 📧 Communications: Resend API (Transactional and marketing newsletter delivery)
